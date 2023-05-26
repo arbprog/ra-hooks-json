@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dl8itap71i26rxg9?svg=true)](https://ci.appveyor.com/project/arbprog/ra-hooks-json)
